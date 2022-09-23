@@ -1,3 +1,9 @@
+// header files here
+#include "xc.h"  // C header file
+
+//global variables here
+uint16_t i; 
+
 
 void main(void)
 {
