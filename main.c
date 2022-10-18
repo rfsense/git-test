@@ -12,6 +12,7 @@ uint8_t varMain2;
 
 uint8_t varBranch;
 uint8_t varBranch2;
+uint8_t varBranch3;
 
 
 void main(void)
