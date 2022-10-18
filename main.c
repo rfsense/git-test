@@ -3,17 +3,7 @@
 
 //global variables here
 uint16_t i; 
-uint8_t var1;
-uint8_t var2;
-uint8_t var3;
-
-uint8_t varMain;
-uint8_t varMain1;
-
-uint8_t varBranch;
-uint8_t varBranch25;
-uint8_t varBranch3;
-
+uint16_t varbranchNew;
 
 void main(void)
 {
