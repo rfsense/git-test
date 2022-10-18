@@ -1,3 +1,3 @@
 # git-test
-Test out working of git-hub with an example code
+Test out working of git-hub desktop app with an example code
  
