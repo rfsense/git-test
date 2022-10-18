@@ -10,6 +10,7 @@ uint8_t var3;
 uint*_t varMain;
 
 uint8_t varBranch;
+uint8_t varBranch2;
 
 
 void main(void)
