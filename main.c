@@ -3,6 +3,7 @@
 
 //global variables here
 uint16_t i; 
+uint8_t var1;
 
 
 void main(void)
