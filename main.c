@@ -7,7 +7,7 @@ uint8_t var1;
 uint8_t var2;
 uint8_t var3;
 uint8_t varBranch;
-uint8_t varBranch2;
+uint8_t varBranch25;
 uint8_t varBranch3;
 
 
